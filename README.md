@@ -1,1 +1,1 @@
-# demo
+# profile basic
